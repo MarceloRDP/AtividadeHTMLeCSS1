@@ -1,2 +1,2 @@
 # AtividadeHTMLeCSS1
-atualiza
+Pequena atualização só para entender o GitHub
